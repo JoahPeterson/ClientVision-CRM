@@ -14,7 +14,7 @@ ClientVision is a CRM web application built for WoodTrust Bank to manage custome
 ![Page](ScreenShots/ScreenShots/CreateCustomer.jpeg)
 
 ## Customer Details Page
-![Page](ScreenShots/ScreenShots/CustomerDetails.jpeg)
+--Missing Image--
 
 ## Recent Customers Report Page
 ![Page](ScreenShots/ScreenShots/RecentCustomers.jpeg)
